@@ -1,5 +1,5 @@
-var attachments = require('../../lib/attachments'),
-    async = require('../../deps/async');
+var attachments = require('../../../lib/attachments'),
+    async = require('../../../deps/async');
 
 
 /**
