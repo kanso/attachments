@@ -1,0 +1,9 @@
+{
+  "name": "attachments",
+  "version": "0.0.11",
+  "description": "Loads files or directories of files and attaches them to a design doc",
+  "dependencies": {
+    "async": "git://github.com/caolan/async",
+    "kanso-utils": "git://github.com/kanso/kanso-utils"
+  }
+}
